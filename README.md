@@ -1,4 +1,4 @@
-# 👋 Hola, soy Héric S.
+# 👋 Hola, soy Heric.
 
 **Automatizo procesos con Python para que no pierdas tiempo en tareas repetitivas.**
 
