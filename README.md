@@ -34,7 +34,19 @@ Ayudo a pequeñas empresas y emprendedores a ahorrar horas de trabajo con herram
 
 ## 📂 Proyectos destacados
 
-- **[Sword](https://github.com/hericsolorzano-beep/Sword)** — Automatización con Python: limpieza y unión de Excels, llenado de formularios. *(en desarrollo)*
+### ⚔️ Sword — limpia y une Excel en segundos
+
+[![CI](https://img.shields.io/github/actions/workflow/status/hericsolorzano-beep/Sword/ci.yml?label=CI&style=flat-square)](https://github.com/hericsolorzano-beep/Sword/actions)
+[![Release](https://img.shields.io/github/v/release/hericsolorzano-beep/Sword?style=flat-square&label=Sword.exe)](https://github.com/hericsolorzano-beep/Sword/releases/latest)
+
+Herramienta **lista para usar**: toma todos los Excel de una carpeta y entrega **uno solo, limpio** (borra duplicados, filas vacías y espacios). Funciona en **Windows, Linux y macOS**.
+
+- 💾 **Descarga `Sword.exe` sin instalar nada** → [Último Release](https://github.com/hericsolorzano-beep/Sword/releases/latest)
+- 📖 Guía rápida → [Sword repository](https://github.com/hericsolorzano-beep/Sword)
+
+```
+sword C:\carpeta\con\mis_excels   →   resultado_limpio.xlsx
+```
 
 ---
 
