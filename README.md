@@ -27,6 +27,10 @@ Cada proyecto empieza igual: **me muestras las dos horas que pierdes y te digo
 si se pueden evitar.** Si la respuesta honesta es que no compensa, también te
 lo digo.
 
+> De los servicios de arriba, el trabajo con **datos en Excel** es el que puedes
+> ver aquí abajo, con su código y sus pruebas. El resto lo trabajo según el caso
+> de cada cliente, y prefiero decirlo antes que prometer algo que no he hecho.
+
 ---
 
 ## 🛠️ Con qué trabajo
