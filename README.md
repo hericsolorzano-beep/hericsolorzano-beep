@@ -4,9 +4,8 @@ Automatizo procesos con Python para que los negocios no pierdan horas en tareas
 repetitivas. Hoy ese trabajo es, sobre todo, **datos**: limpiar, unir y
 consolidar archivos Excel que llegan sueltos de mil maneras.
 
-**CS50x de Harvard** (*Introduction to Computer Science with Python*). Ese
-curso es la base de lo que hago: escribir código que se entienda, probar lo que
-escribo y no dar por hecho que algo funciona.
+Trabajo así: escribo código que se entienda, pruebo lo que escribo y no doy por
+hecho que algo funciona.
 
 > Busco clientes que quieren automatizar algo concreto, y oportunidades para
 > seguir aprendiendo. Si tienes un proceso que te quita tiempo todas las semanas,
@@ -104,8 +103,8 @@ nadie.
 
 - **Pruebas antes que suposiciones.** En Sword, cada corrección de bug tiene su
   prueba de regresión, y la CI corre las pruebas en **tres sistemas** (Windows,
-  Linux y macOS) y **cuatro versiones de Python** (3.10 a 3.13). CS50x me
-  enseñó a no entregar código que no entiendo ni he probado.
+  Linux y macOS) y **cuatro versiones de Python** (3.10 a 3.13). No entrego
+  código que no entiendo ni he probado.
 - **Software que se puede mantener.** Documentado, con control de versiones y
   automatización de pruebas. No es solo "funciona en mi máquina".
 - **Interfaz en el idioma del cliente.** Los mensajes de error dicen qué hacer,
