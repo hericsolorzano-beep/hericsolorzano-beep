@@ -60,7 +60,7 @@ la manejo o si la tendría que aprender.
 
 ![Python](https://img.shields.io/badge/Python-3.10%20--%203.13-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pruebas](https://img.shields.io/github/actions/workflow/status/hericsolorzano-beep/Sword/ci.yml?label=pruebas&style=flat-square&logo=githubactions&logoColor=white)
-![Cobertura](https://img.shields.io/badge/cobertura-93%25-4c1?style=flat-square)
+![Cobertura](https://img.shields.io/badge/cobertura-92%25-4c1?style=flat-square)
 ![Tipos](https://img.shields.io/badge/tipos-mypy%20limpio-2a6f4b?style=flat-square)
 ![Estilo](https://img.shields.io/badge/estilo-ruff%20limpio-261230?style=flat-square)
 ![Licencia](https://img.shields.io/badge/licencia-MIT-0078D6?style=flat-square)
@@ -76,7 +76,7 @@ sword ventas -o total.xlsx
 No es un ejercicio: se instala, se le da una carpeta real y entrega un archivo
 que el cliente usa.
 
-- 🧪 **39 pruebas automatizadas**, 93 % de cobertura, con un mínimo exigido en la CI
+- 🧪 **40 pruebas automatizadas**, 92 % de cobertura, con un mínimo exigido en la CI
 - ✅ **CI en Windows, Linux y macOS** y en Python 3.10 a 3.13
 - 🔍 **`ruff` y `mypy` limpios**
 - 📦 **Ejecutables listos para usar**, sin necesidad de instalar Python
